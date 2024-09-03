@@ -2,4 +2,4 @@ Download "data_matrices" from "https://drive.google.com/drive/folders/1G8taDe9q9
 Download "trained_models" from "https://drive.google.com/drive/folders/1D-heUpH_PJaZCbHxUpbYrveWvwT6vM_E?usp=sharing" and paste it in "Multimedia_Project/FINAL_Multimedia/Phase_2/Code"
 Download "Phase2_Outputs" from "https://drive.google.com/drive/folders/1JPCBrt1Pl8mjCEdqkRp7aoxdaa5JDI69?usp=sharing" and paste it in "Multimedia_Project/FINAL_Multimedia/Phase_2" and rename it to "Outputs"
 Download caltech101 dataset and paste it to "Multimedia_Project/FINAL_Multimedia/data"
-Download "Phase3_Outputs" from "https://drive.google.com/drive/folders/1ML8cKYnSRrAH0fHHj_Qa8GB0Vz9tTrUm?usp=sharing" and paste it to "Multimedia_Project/FINAL_Multimedia/Phase_3"
+Download "Phase3_Outputs" from "https://drive.google.com/drive/folders/1ML8cKYnSRrAH0fHHj_Qa8GB0Vz9tTrUm?usp=sharing" and paste it to "Multimedia_Project/FINAL_Multimedia/Phase_3" and rename it to "Outputs"
