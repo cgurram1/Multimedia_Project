@@ -1,0 +1,35 @@
+{
+  "caltech_dataset_path": {
+    "value": "D:\\Project Multimedia\\data",
+    "isFilePath": true
+  },
+  "myTestConstant":{
+    "value": 5,
+    "isFilePath": false
+  },
+  "data_matrix_path":{
+    "value": "D:\\Project Multimedia\\Phase 3\\data\\datamatrix",
+    "isFilePath": true
+  },
+  "mongo_db_cs":{
+    "value": "mongodb://localhost:27017",
+    "isFilePath": false
+  },
+  "phase2Trainingset_collection_name":{
+    "value":"phase2trainingdataset",
+    "isFilePath": false
+  },
+  "representative_collection_name":{
+    "value":"labelrepresentativeimages",
+    "isFilePath": false
+  },
+  "odd_images_collection_name":{
+    "value":"oddimagesdataset",
+    "isFilePath": false
+  },
+  "full_Trainingset_collection_name":{
+    "value":"caltech101withGSimages",
+    "isFilePath": false
+  }
+
+}
